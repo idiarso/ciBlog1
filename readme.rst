@@ -1,3 +1,7 @@
+Aplikasi Ini dibangun menggunakan pemrograman MVC CodeIgniter
+
+
+
 ###################
 What is CodeIgniter
 ###################
